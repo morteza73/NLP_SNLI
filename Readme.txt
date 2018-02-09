@@ -1,0 +1,1 @@
+First download snli dataset and glbve300D dataset, then copy those file in this folder to run project correctly!
